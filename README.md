@@ -1,6 +1,6 @@
 # time-managment
 
-Project-name: Get-Organized
+Project-name: getOrganized
 
 Team-members:
 إيثار أمين عبدالرحمن صوان
