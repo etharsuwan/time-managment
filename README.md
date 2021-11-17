@@ -35,12 +35,12 @@ developer:
 - Send Reminder
 
 ## Sprint forecast:
-|     User story    |
+|     Sprint 1    |
 | ------------------------ |
-|     As a database administrator, I’m capable of making changes to the database  |
-|     As a user, I’m capable of making an account\ register in the system |
-|     As a user, I’m capable to log in to the system     |
-|     As a user, I want to be capable to view my tasks |
+|    A database administrator is  capable of making changes to the database  |
+|    A user is capable of making an account\ register in the system |
+|    A  user is capable to log in to the system     |
+|    A user wants to be capable to view my tasks |
 
 
 
