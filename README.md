@@ -1,8 +1,9 @@
 # time-managment
 
-Project-name: getOrganized
+## Project-name:
+getOrganized
 
-Team-members:
+## Team-members:
 إيثار أمين عبدالرحمن صوان
 إسراء أحمد "محمد سعيد" صبري
 دينا محمد ديب مشايخ
@@ -10,16 +11,16 @@ Team-members:
 إسراء عماد غازب عواد
 فايزة اسامة عبدالسلام بطة
 
-Stackholders:
+## Stackholders:
 Any person with an interest in the project who is not a
 developer:
-1.manager
+```1.manager
 2.Indirect user(customer)
 3.Direct user(client)
 4.developer
 5.Tester
 
-Backlogs priority:
+## Backlogs priority:
 1.Database creation.
 2.login and registration.
 3.Set Template.
