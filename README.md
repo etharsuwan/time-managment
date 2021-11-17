@@ -14,25 +14,25 @@ getOrganized
 ## Stackholders:
 Any person with an interest in the project who is not a
 developer:
--  `manager
--  `Indirect user(customer)
--  `Direct user(client)
--  `developer
--  `Tester
+-  manager
+-  Indirect user(customer)
+-  Direct user(client)
+-  developer
+-  Tester
 
 ## Backlogs priority:
-1.Database creation.
-2.login and registration.
-3.Set Template.
-4.Add task.
-5.Add To Do List\Edit to do list.
-6.Set Reminder
-7.View Task
-8.View profile 
-9.Send notification
-10.send Task offer 
-11.receive task offer
-12.Send Reminder
+- Database creation.
+- login and registration.
+- Set Template.
+- Add task.
+- Add To Do List\Edit to do list.
+- Set Reminder
+- View Task
+- View profile 
+- Send notification
+- send Task offer 
+- receive task offer
+- Send Reminder
 
 ## Sprint forecast:
 |     User story    |
