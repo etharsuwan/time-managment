@@ -4,7 +4,7 @@
 getOrganized
 
 ## Team-members:
-إيثار أمين عبدالرحمن صوان
+إيثار أمين عبدالرحمن صوان```
 إسراء أحمد "محمد سعيد" صبري
 دينا محمد ديب مشايخ
 ندى ذياب غانم ابوشنب
@@ -14,7 +14,7 @@ getOrganized
 ## Stackholders:
 Any person with an interest in the project who is not a
 developer:
-```1.manager
+1.manager
 2.Indirect user(customer)
 3.Direct user(client)
 4.developer
