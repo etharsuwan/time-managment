@@ -12,7 +12,12 @@ Team-members:
 
 Stackholders:
 Any person with an interest in the project who is not a
-developer.
+developer:
+1.manager
+2.Indirect user(customer)
+3.Direct user(client)
+4.developer
+5.Tester
 
 Backlogs priority:
 1.Database creation
