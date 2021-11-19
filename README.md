@@ -40,7 +40,7 @@ developer:
 |    A database administrator is  capable of making changes to the database  |
 |    A user is capable of making an account\ register in the system |
 |    A  user is capable to log in to the system     |
-|    A user wants to be capable to view my tasks |
+|    A user wants to be capable to view her/his tasks |
 
 
 
