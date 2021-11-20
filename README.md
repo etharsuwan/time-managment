@@ -42,6 +42,8 @@ developer:
 |    A  user is capable to log in to the system     |
 |    A user wants to be capable to view her/his tasks |
 
-
-
+#daily scrum 20/11/2021
+Yesturday Isra'a Awwad submitted  "Add and View task code"
+Today Nada Abushanab,Isra'a Sabri and Dena Mashayekh finshish the decuomentaion 
+we face a problem in burndown chart 
 
