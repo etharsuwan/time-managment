@@ -44,8 +44,8 @@ developer:
 
 ## daily scrum 20/11/2021
 Yesturday Isra'a Awwad submitted  "Add and View task code"
-Today Nada Abushanab,Isra'a Sabri and Dena Mashayekh finshish the decuomentaion 
-we face a problem in burndown chart 
+Today Nada Abushanab,Isra'a Sabri and Dina Mashayekh finished the decuomentaion but we also 
+faced a problem doing the burndown chart.
 
 ## Assessment Critera:
 ### part2 & part3
