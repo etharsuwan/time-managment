@@ -50,5 +50,5 @@ faced a problem doing the burndown chart.
 ## Assessment Critera:
 ### part2 & part3
 
-https://docs.google.com/document/d/1rzg1JzHTpLscOURRFM5noK3HX3GrlbG-yf1Mz9ur90U/edit Click here to view the Assessment Criteria
+https://docs.google.com/document/d/1rzg1JzHTpLscOURRFM5noK3HX3GrlbG-yf1Mz9ur90U/edit?usp=sharing Click here to view the Assessment Criteria
 
