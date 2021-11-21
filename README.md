@@ -52,5 +52,5 @@ faced a problem doing the burndown chart.
 https://docs.google.com/document/d/1rzg1JzHTpLscOURRFM5noK3HX3GrlbG-yf1Mz9ur90U/edit?usp=sharing Click here to view the Assessment Criteria
 
 ## Burndown Chart 
-https://onedrive.live.com/edit.aspx?action=editnew&resid=B1703E9401B86892!1252&ithint=file%2cxlsx&action=editnew&wdNewAndOpenCt=1637529016983&wdPreviousSession=a728a264-fb7c-42ef-9104-47e1490a3d90&wdOrigin=OFFICECOM-HWA.START.NEW  
+https://1drv.ms/x/s!ApJouAGUPnCxiWSY0Ktzrq95z1Gy?e=n4a3z8 Click here to view the Burndown chart
 
