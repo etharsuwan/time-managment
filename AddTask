@@ -11,6 +11,15 @@ try {
             Connection conn=ods.getConnection();
             Statement st=conn.createStatement();
             
-                SimpleDateFormat df=new  SimpleDateFormat("yyyy-MM-dd");         
+                SimpleDateFormat df=new  SimpleDateFormat("yyyy/mm/dd");         
             String sd=df.format(this.jDateChooser1.getDate());
             String categoryname=this.jTextField2.getText();
+            
+            
+  ResultSet r=st.executeQuery("select * from task");
+            while(r.next()){
+            serialnum++;
+            }
+            serialnum=serialnum+1;
+            String taskname=this.jTextField1.getText();
+            String taskdescription=this.jTextArea1.getText();
