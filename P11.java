@@ -79,6 +79,13 @@ public class P11 extends javax.swing.JFrame {
         I1.setVisible(true);
         
     }//GEN-LAST:event_jButton1ActionPerformed
+    
+      private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {                                         
+        // TODO add your handling code here:
+         this.setVisible(false);
+            EditTask c=new EditTask();
+            c.setVisible(true);
+    }   
 
     /**
      * @param args the command line arguments
