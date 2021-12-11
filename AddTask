@@ -11,7 +11,7 @@ try {
             Connection conn=ods.getConnection();
             Statement st=conn.createStatement();
             
-                SimpleDateFormat df=new  SimpleDateFormat("yyyy/mm/dd");         
+                SimpleDateFormat df=new  SimpleDateFormat("yyyy-MM-dd");         
             String sd=df.format(this.jDateChooser1.getDate());
             String categoryname=this.jTextField2.getText();
             
