@@ -83,8 +83,8 @@ public class P11 extends javax.swing.JFrame {
       private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {                                         
         // TODO add your handling code here:
          this.setVisible(false);
-            EditTask c=new EditTask();
-            c.setVisible(true);
+            EditTask edit=new EditTask();
+            edit.setVisible(true);
     }   
       private void jButton4ActionPerformed(java.awt.event.ActionEvent evt) {                                         
         // TODO add your handling code here:
