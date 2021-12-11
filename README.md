@@ -51,8 +51,8 @@ faced a problem doing the burndown chart.
 ### part2 & part3
 https://docs.google.com/document/d/1rzg1JzHTpLscOURRFM5noK3HX3GrlbG-yf1Mz9ur90U/edit?usp=sharing Click here to view the Assessment Criteria
 
-## Burndown Chart 
-https://1drv.ms/x/s!ApJouAGUPnCxiWSY0Ktzrq95z1Gy?e=n4a3z8 Click here to view the Burndown chart
+## Burndown Chart Sprint1
+https://1drv.ms/x/s!ApJouAGUPnCxiWSY0Ktzrq95z1Gy?e=n4a3z8 Click here to view the Burndown chart for Sprint 1
 
 ## daily scrum 09/12/2021
 Today Nada Abushanab finished the front-end for sprint 2 
@@ -68,4 +68,7 @@ Isra Sabri,Isra Awwad and Faiza Batta finised part of Docuomentation
 Isra Sabri and Isra Awwad worked togather in Zoom and Slack  for documintation 
 Ethar Swan and Dina Mashayekh worked togather in slack for back-end
 ![pair](https://user-images.githubusercontent.com/93453821/145686614-772522b9-a2fc-4823-b8aa-4c1728056059.jpg)
+
+## Burndown Chart Sprint2
+https://1drv.ms/x/s!ApJouAGUPnCxikMJ5WP9BAMxVM51?e=vLO3HB Click here to view Burndown Chart for Sprint 2
 
