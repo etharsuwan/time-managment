@@ -86,6 +86,12 @@ public class P11 extends javax.swing.JFrame {
             EditTask c=new EditTask();
             c.setVisible(true);
     }   
+      private void jButton4ActionPerformed(java.awt.event.ActionEvent evt) {                                         
+        // TODO add your handling code here:
+         this.setVisible(false);
+            Showtasks c=new Showtasks();
+            c.setVisible(true);
+    }    
 
     /**
      * @param args the command line arguments
