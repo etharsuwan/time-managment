@@ -64,3 +64,6 @@ Dina Mashayekh finised the back-end add category and show categories
 Ethar Swan started the back-end show category tasks
 Isra Sabri,Isra Awwad and Faiza Batta finised part of Docuomentation 
 
+## Pair Programming
+Isra Sabri and Isra Awwad worked togather in Zoom and Slack  for documintation 
+Ethar Swan and Dina Mashayekh worked togather in slack for back-end
