@@ -167,14 +167,14 @@ public class EditTask extends javax.swing.JFrame {
     }// </editor-fold>                        
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {                                         
-        // TODO add your handling code here:
+        
                 try {
-            // TODO add your handling code here:
+            
           
-            OracleDataSource ods=new OracleDataSource();
-            ods.setURL("jdbc:oracle:thin:@localhost:1521:orcl");
-            ods.setUser("system");
-            ods.setPassword("Abcabc11");
+            OracleDataSource ods1=new OracleDataSource();
+            ods1.setURL("jdbc:oracle:thin:@localhost:1521:orcl");
+            ods1.setUser("system");
+            ods1.setPassword("Abcabc11");
             Connection conn=ods.getConnection();
             Statement st=conn.createStatement();
             
