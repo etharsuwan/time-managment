@@ -54,3 +54,7 @@ https://docs.google.com/document/d/1rzg1JzHTpLscOURRFM5noK3HX3GrlbG-yf1Mz9ur90U/
 ## Burndown Chart 
 https://1drv.ms/x/s!ApJouAGUPnCxiWSY0Ktzrq95z1Gy?e=n4a3z8 Click here to view the Burndown chart
 
+## daily scrum 09/12/2021
+Today Nada Abushanab finished the front-end for sprint 2 
+Dina Mashayekh started the back-end with Ethar Swan
+Isra Sabri,Isra Awwad and Faiza Batta started the Docuomentation 
