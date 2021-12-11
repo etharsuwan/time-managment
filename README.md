@@ -58,3 +58,9 @@ https://1drv.ms/x/s!ApJouAGUPnCxiWSY0Ktzrq95z1Gy?e=n4a3z8 Click here to view the
 Today Nada Abushanab finished the front-end for sprint 2 
 Dina Mashayekh started the back-end with Ethar Swan
 Isra Sabri,Isra Awwad and Faiza Batta started the Docuomentation 
+
+## Last 24 houre 
+Dina Mashayekh finised the back-end add category and show categories
+Ethar Swan started the back-end show category tasks
+Isra Sabri,Isra Awwad and Faiza Batta finised part of Docuomentation 
+
