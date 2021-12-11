@@ -175,7 +175,7 @@ public class EditTask extends javax.swing.JFrame {
             ods1.setURL("jdbc:oracle:thin:@localhost:1521:orcl");
             ods1.setUser("system");
             ods1.setPassword("Abcabc11");
-            Connection conn=ods.getConnection();
+            Connection conn=ods1.getConnection();
             Statement st=conn.createStatement();
             
             ResultSet r=st.executeQuery("select * from task");
@@ -228,7 +228,7 @@ public class EditTask extends javax.swing.JFrame {
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {                                         
       
         
-            // TODO add your handling code here:
+           
             
             
             
