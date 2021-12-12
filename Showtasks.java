@@ -41,7 +41,9 @@ static Object[] data = new Object[3];
      
     public Showtasks() {
         initComponents();
+//show all tasks done on friday
 
+        
         ArrayList<tasksList>list=Tasks.TableGenerator();
         
         
