@@ -334,6 +334,7 @@ st.setLocationRelativeTo(null);
     private javax.swing.JPanel jPanel1;
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JTable jTable1;
-    public javax.swing.JTextField jTextField1;
+    public static javax.swing.JTextField jTextField1;
+
     // End of variables declaration//GEN-END:variables
 }
